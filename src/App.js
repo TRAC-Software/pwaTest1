@@ -20,6 +20,14 @@ function App() {
         >
           Learn React
         </a>
+        <a
+          className="Download-button"
+          href="/path/to/pwa-file"
+          download="your-pwa-file-name.extension"
+          onClick={handleDownload}
+        >
+          Download PWA
+        </a>
       </header>
     </div>
   );

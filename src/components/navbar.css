@@ -17,8 +17,9 @@
         bottom: 0;
         left: 0;
         width: 100%;
-        background-color: #f1f1f1;
+        background-color: #c8ff00;
         padding: 10px;
         z-index: 9999; /* Make sure it stays on top */
+        border-radius: 20px;
     }
 }
